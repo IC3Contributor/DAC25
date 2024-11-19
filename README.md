@@ -1,6 +1,6 @@
 # DAC-2025
 
-*Leveraging Critical Proof Obligations for Efficient IC3 Verification*
+Code for *Leveraging Critical Proof Obligations for Efficient IC3 Verification*
 
 ## Usage
 ---
